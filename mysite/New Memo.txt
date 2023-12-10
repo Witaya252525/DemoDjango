@@ -1,5 +1,5 @@
 
-(tutorial-env) C:\Users\339073\OneDrive\WEBDEVELOP2023\Djanko_Vote_Dev_2023\DemoDjango>tutorial-env\Scripts\activate.batcd..
+(tutorial-env) C:\Users\339073\OneDrive\WEBDEVELOP2023\Djanko_Vote_Dev_2023\DemoDjango>///// tutorial-env\Scripts\activate.bat
 'tutorial-env\Scripts\activate.batcd..' is not recognized as an internal or external command,
 operable program or batch file.
 
